@@ -14,9 +14,6 @@ This Python module provides a powerful and flexible interface for interacting wi
 To install the AI-Based Conversation API Client, follow these steps:
 
 1. Clone the repository or download the source code:
-   ```
-   git clone https://github.com/Muhammadali-Akbarov/ai-conversation-api-client.git
-   ```
    or download and extract the ZIP file from the repository's main page.
 
 2. Navigate to the project directory:
